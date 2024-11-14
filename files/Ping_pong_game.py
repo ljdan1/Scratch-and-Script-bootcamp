@@ -1,4 +1,5 @@
 # Ping pong game using python tkinter
+# a prompt generated
 
 import tkinter as tk
 import random
